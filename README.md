@@ -15,7 +15,7 @@
 <br>
 
 - Email: caa789@naver.com
-- Notion Blog: https://nebulous-silene-3f7.notion.site/Khan1201-82476cc6008d4b8ca8764769ccb019f9?pvs=25
+- Notion Blog: https://nebulous-silene-3f7.notion.site/8d9e4ed306344279b7a2e6a0c45b3e3f
 - GitHub: https://github.com/Khan1201
 
 <br>
